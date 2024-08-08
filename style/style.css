@@ -259,3 +259,131 @@ margin-top:-60px;
 
 
 /* bmi section */
+/* bmi section */
+
+.bmi-section{
+  width: 600px;
+  height: 70px;
+  margin: 14px 0px;
+  margin-left: 480px;
+  
+  
+  }
+  .bmi-chart{
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+  font-weight: 900;
+  
+  }
+  .bmi-description{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+  font-weight: 400;
+  }
+  
+  .bmi-calculator{
+    background: rgb(34, 34, 34);
+  width: 1400px;
+  height: 487px;
+  margin: 88px 0px;
+  margin-left: 40px;
+  }
+  
+  .bmi-1{
+    color: rgb(255, 255, 255);
+  font-size: 1.5rem;
+  font-weight: 900;
+  margin: 14px 0px;
+  margin-left: 100px;
+  padding: 80px 70px;
+  }
+  
+  .bmi-table{
+  width: 577px;
+  height: 386px;
+  margin: 40px;
+  margin-left: 700px;
+  margin-top:-380px;
+  }
+  
+  .Calculate-1{
+    color: rgb(255, 255, 255);
+  font-family: Inter;
+  font-size: 1.3rem;
+  font-weight: 900;
+  }
+  
+  .Calculate-2{
+    color: rgba(255, 255, 255, 0.5);
+  font-size: 1rem;
+  font-weight: 400;
+  margin: 14px 0px;
+  
+  }
+  .Calculate-3{
+    color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 42px;
+  border: none;
+  margin: 34px 0px;
+  padding: 14px 60px 14px 60px;
+  background: rgb(230, 83, 60);
+  }
+  #height{
+    border-radius: 8px;
+    border: none;
+    padding: 12px 40px 12px 20px;
+    background: rgba(255, 255, 255, 0.1);
+    margin: 0px 12px;
+  }
+  
+  #weight{
+    border-radius: 8px;
+    border: none;
+    padding: 12px 40px 12px 20px;
+    margin: 0px 12px;
+    background: rgba(255, 255, 255, 0.1);
+  }
+  
+  
+  #Age{
+    border-radius: 8px;
+   border: none;
+   margin: 0px 12px;
+   margin-top: 12px;
+   padding: 12px 40px 12px 20px;
+   background: rgba(255, 255, 255, 0.1);
+  }
+  
+  #Sex{
+    border-radius: 8px;
+  border: none;
+  margin: 0px 12px;
+  padding: 12px 40px 12px 20px;
+  background: rgba(255, 255, 255, 0.1);
+  }
+  
+  #Select{
+    border-radius: 8px;
+  border: none;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 12px 40px 12px 20px;
+  margin: 0px 12px;
+  margin-top: 12px;
+  width: 500px;
+  height: 40px;
+  }
+
+  .table-1{
+    border: 1px solid rgb(249, 248, 248);
+    padding: 15px;
+    
+  }
+  
+  .big-table{
+     border-collapse: collapse;
+     margin-left: 160px;
+    margin-top: -40px;
+    margin-bottom: 50px;
+  }
